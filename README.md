@@ -68,6 +68,12 @@ o array deve ficar assim:
 ### Exemplo
 [GET] - /order
 
+### Rodando o projeto pelo Insomnia
+
+ projeto:
+
+ <img src=".github/desafio-node-1-completo.gif" alt="video rodado o projeto pelo Insomnia">
+
 ### Technologies 
 
 The following tools were used in this project:
