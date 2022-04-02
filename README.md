@@ -96,3 +96,5 @@ The following tools were used in this project:
             </sub>
     </tr>
 </table>
+
+<a href="#top">Back to top</a>
